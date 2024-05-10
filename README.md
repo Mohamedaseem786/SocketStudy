@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-### Name: Rishi M
-### Reg.NO: 212222230119
+### Name:MOHAMED ASEEM P
+### Reg.NO: 212221230063
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
